@@ -1,0 +1,22 @@
+{
+    "name": "sayan/app-image-uploader",
+    "description": "An image uploader",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Sayan Majumdar",
+            "email": "sayanmajumdar1991@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "htmlburger/carbon-fields": "dev-development"
+    },
+    "autoload": {
+        "psr-4":
+        {
+            "Inc\\": "inc/"
+        }
+    }
+}
