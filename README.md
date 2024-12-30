@@ -6,5 +6,5 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A custom WordPress Plugin used to set banner images on the WordPress backend using Cmb2 Library. It sends the image link in JSON and using custom WP Rest API it creates an endpoint. Using the plugin background images can be set on the WP backend and it will reflect on the Android app by making an API Request to the specific URL.
+A custom WordPress plugin is used to set banner images in the WordPress backend using the CMB2 library. It sends the image URL in JSON format and creates an endpoint via a custom WP REST API. With this plugin, background images can be set in the WP backend, and they will be reflected in the Android app by making an API request to the specific URL.
 
